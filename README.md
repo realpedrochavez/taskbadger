@@ -46,10 +46,10 @@ VESTING OF OWNERSHIP
 
 Ownership of this app vests automatically upon the initial publishing of any of the following 4 components of the app.
 
-Initial publication of the IOS version of the application
-Initial publication of the ANDROID version of the application
-Initial publication of the Web Based version of the application
-Initial publication of the Website to promote the application
+(1) Initial publication of the IOS version of the application
+(2) Initial publication of the ANDROID version of the application
+(3) Initial publication of the Web Based version of the application
+(4) Initial publication of the Website to promote the application
 
 After initial publication a future contributor to the app can no longer claim an ownership share in the app. In other words, the owners of the app will be decided based on whether they contributed to 1 of the 4 publications upon its initial publication state - not for any revisions or additions to the application.
 
